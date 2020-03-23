@@ -1,0 +1,21 @@
+.shadow-hover {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.17);
+    transition: ease-in-out .2s;
+}
+
+.shadow-hover:hover {
+    transition: ease-in-out .2s;
+    box-shadow: 0 .1rem 2rem rgba(0, 0, 0, 0.16);
+}
+
+.img-icon-comment {
+    margin-right: -90px;
+}
+
+.img-icon-comment img {
+    width: 50px;
+}
+
+.text-comment {
+    margin-top: -10px;
+}
